@@ -1,6 +1,8 @@
 # Eat & Tell: A Randomized Trial of Random-Loss Incentive to Increase Dietary Self-Tracking Compliance
 
-This repository contains the Jupyter notebook used for reproducing the results published in our [Digital Health 2018 paper](https://www.researchgate.net/publication/323956409_Eat_Tell_A_Randomized_Trial_of_Random-Loss_Incentive_to_Increase_Dietary_Self-Tracking_Compliance).
+This repository contains the Jupyter notebook used for reproducing the results published in our [Digital Health 2018 paper](https://www.researchgate.net/publication/323956409_Eat_Tell_A_Randomized_Trial_of_Random-Loss_Incentive_to_Increase_Dietary_Self-Tracking_Compliance):
+
+Achananuparp, P., Lim, E.-P., Abhishek, V., & Yun, T. (2018). Eat & Tell: A Randomized Trial of Random-Loss Incentive to Increase Dietary Self-Tracking Compliance. In Proceedings of the 2018 International Conference on Digital Health - DH ’18. https://doi.org/10.1145/3194658.3194662
 
 Please contact [Aek](mailto:palakorna@smu.edu.sg?cc=palakorn@gmail.com) if you have any questions or problems.
 
