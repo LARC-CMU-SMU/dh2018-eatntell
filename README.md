@@ -39,7 +39,7 @@ All CSV data files should be put in the `data` folder. All notebooks should be p
 ## Pipeline
 
 ### Step 0: Data import
-[Download the data](hhttps://drive.google.com/open?id=1zuo9CXxquiS8r8iyMQEJfDSQO8YO9j1w) and extract the CSV files to the `data` directory.
+[Download the data](https://drive.google.com/open?id=1zuo9CXxquiS8r8iyMQEJfDSQO8YO9j1w) and extract the CSV files to the `data` directory.
 
 ### Step 1: Run the data analysis notebook
 Run the notebook `data-analysis.ipynb` to perform all analyses.
